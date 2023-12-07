@@ -17,3 +17,8 @@ Easy to learn, focusing on final goals.
 ## Code Example:
 ```
 ```
+## Work Experience 
+## Education 
+BSUIR Minsk, Belarus
+## English Language 
+
