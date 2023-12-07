@@ -21,4 +21,6 @@ Easy to learn, focusing on final goals.
 ## Education 
 BSUIR Minsk, Belarus
 ## English Language 
+Russian – native speaker
+English – B1 (in process)
 
