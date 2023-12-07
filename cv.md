@@ -17,10 +17,14 @@ Easy to learn, focusing on final goals.
 ## Code Example:
 ```
 ```
-## Work Experience 
-## Education 
-BSUIR Minsk, Belarus
-## English Language 
-* Russian – native speaker
-* English – B1 (in process)
+## Experience:
+I have little experience in SEO and Frontend development. I have worked on several small projects and currently working.
 
+## Education:
+BSUIR
+    + 
+
+## Languages:
+* Russian — Native
+* English — A2 ( B1 in process…)
+* Polish — A2 ( B1 in process…)
